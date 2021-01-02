@@ -1,5 +1,2 @@
-#### https://start.spring.io/ 에서 프로젝트 생성
-#### 웰컴페이지랑 템플릿 엔진(타임리프)
-#### 빌드하고 실행하기
-
-![image](https://user-images.githubusercontent.com/40969203/103449176-e189e880-4ce7-11eb-935b-19d119c589e7.png)
+![image](https://user-images.githubusercontent.com/40969203/103449341-56f6b880-4cea-11eb-9df5-8f8f12418da4.png)
+![image](https://user-images.githubusercontent.com/40969203/103449344-5c540300-4cea-11eb-88e0-6225380764de.png)
