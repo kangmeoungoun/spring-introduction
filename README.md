@@ -1,2 +1,4 @@
-![image](https://user-images.githubusercontent.com/40969203/103449341-56f6b880-4cea-11eb-9df5-8f8f12418da4.png)
-![image](https://user-images.githubusercontent.com/40969203/103449344-5c540300-4cea-11eb-88e0-6225380764de.png)
+타입리프 장점이 html 을 그대로 서버 없이 파일을 열어도 확인가능하다.
+템플릿 엔진으로 동작시  hello! empty 값이  'hello '+ ${name} 치환 된다.
+
+<p th:text="'hello '+ ${name}">hello! empty</p>
