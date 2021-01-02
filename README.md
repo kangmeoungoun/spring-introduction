@@ -1,5 +1,6 @@
-![image](https://user-images.githubusercontent.com/40969203/103455517-271ed380-4d31-11eb-8346-96188ce778d8.png)
-![image](https://user-images.githubusercontent.com/40969203/103455521-2be38780-4d31-11eb-8ee2-07d39df5e867.png)
-![image](https://user-images.githubusercontent.com/40969203/103455528-36058600-4d31-11eb-8db5-ebc34648e7f7.png)
-![image](https://user-images.githubusercontent.com/40969203/103455530-3a31a380-4d31-11eb-97ee-a564ad21df9f.png)
-![image](https://user-images.githubusercontent.com/40969203/103455532-3dc52a80-4d31-11eb-93d8-74e1e8373088.png)
+#### 조립시점에만 완성하고 그 이후에 는 못바꿔야되는데 중간에도 바꿀수 있게 노출된다.
+#### 생성하는 시점에만 하고 그이후에느 변경 못하도록.
+#### 권장하는 스타일은 생성자를 통한 주입
+
+![image](https://user-images.githubusercontent.com/40969203/103455912-8b8f6200-4d34-11eb-9252-7a669e52cb3e.png)
+![image](https://user-images.githubusercontent.com/40969203/103455916-91854300-4d34-11eb-843a-5e889d8f401a.png)
