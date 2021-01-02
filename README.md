@@ -1,4 +1,7 @@
-![image](https://user-images.githubusercontent.com/40969203/103453029-0e0a2880-4d19-11eb-9121-b2b6f4ad7b55.png)
-![image](https://user-images.githubusercontent.com/40969203/103453032-119daf80-4d19-11eb-816e-d337a8c1bf54.png)
-![image](https://user-images.githubusercontent.com/40969203/103453034-15313680-4d19-11eb-9c97-6771f378a6e4.png)
-![image](https://user-images.githubusercontent.com/40969203/103453036-195d5400-4d19-11eb-850f-8b11b515f4bb.png)
+### 구현체를 만들고 난후  테스트 케이스 작성
+
+### 테스트 케이스 작성 후 구현체 작성  = TDD(Test-driven development) 테스트 주도 개발
+* 별모양 을 만든나고 하면 별모양 틀을 먼저 만들고 별모양을 만든후 틀에 꽂히는지 확인.
+
+![image](https://user-images.githubusercontent.com/40969203/103453496-04cf8a80-4d1e-11eb-962a-db96ac097c70.png)
+![image](https://user-images.githubusercontent.com/40969203/103453497-0c8f2f00-4d1e-11eb-951d-05072dd85ed3.png)
