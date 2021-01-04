@@ -58,14 +58,4 @@ class MemberServiceTest{
         //then
     }
 
-
-
-    @Test
-    @DisplayName("")
-    void findMembers(){
-    }
-
-    @Test
-    void findOne(){
-    }
 }
